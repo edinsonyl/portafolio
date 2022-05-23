@@ -416,6 +416,7 @@ a:hover {
     
        
     .menu{
+        height:250px;
         width: 190px;
         justify-content: right;
         display: block;
